@@ -16,7 +16,7 @@ Git에 대한 공부는 더 안해도 되도록, 기능은 너가 썼던것 2개
 ### 업로드 파일 양식
 
 ```sh
-$ 0626_xogk.c (or cpp)    //[Month][Date]_[Uploader_Name].c(cpp)
+$ 0626_sorting_xogk.c (or cpp)    //[Month][Date]_[Problem Subject(Name)]_[Uploader_Name].c(cpp)
 ```
 날짜는 하루에 하나씩만 올리는 것으로 하고, 만약 하루에 2개 올리려면 그냥 다음날짜로 해두자. (이렇게 해두면 다음날짜에 안올려도 문제 없음)
 
